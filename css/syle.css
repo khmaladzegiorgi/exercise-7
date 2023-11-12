@@ -1,0 +1,310 @@
+.logo{
+    width: 33px;
+    height: 42px;
+    margin-top: 35px;
+    margin-left: 85px;
+    display: inline-block;
+}
+.home{
+    width: 52px;
+    height: 20px;
+    margin-top: 35px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 19.55px;
+    font-weight: 400;
+    display: inline-block;
+    margin-left: 600px;
+    color: #636060;
+
+}
+.aboutus{
+    display: inline-block;
+    width: 87px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #636060;
+    margin-left: 50px;
+}
+.services{
+    display: inline-block;
+    width: 129px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #636060;
+    margin-left: 50px;
+}
+.tour{
+    display: inline-block;
+    width: 134px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #636060;
+    margin-left: 50px;
+
+}
+.greece{
+    width: 1440px;
+    height: 606px;
+    position: relative;
+    top: 25px;
+    display: block;
+}
+.discover{
+   
+    height: 91px;
+    position: absolute;
+    color: white;
+    font-size: 79px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 90.84px;
+    top: 350px;
+    left: 405px;
+}
+.paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 21.85px;
+    position: absolute;
+    color: white;
+    top: 490px;
+    left: 555px;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #636060;
+}
+main{
+    display: block;
+}
+.sec-1{
+    display: inline-block;
+    margin-top: 120px;
+    margin-left: 70px;
+}
+.hot-services{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32.2px;
+    color: #010101;
+    margin-top: 15px;
+}
+.paragraph-2{
+    width: 235px;
+    height: 115px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color:#636060;
+    margin-top: 50px;
+}
+.sec-2{
+    display: inline-block;
+    margin-left:110px;
+vertical-align: middle;
+margin-top: -150px;
+}
+.flight{
+    
+    width: 286px;
+    height: 295px;
+  display: inline-block;
+}
+.image{
+    width: 286px;
+    height: 195px;
+    
+}
+.flight h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    padding-top: 15px;
+}
+.flight p{
+    width: 286px;
+    height: 63px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20.7px;
+    padding-top: 10px;
+    color: #636060;
+}
+.sec-3{
+    display: block;
+    margin-left: 250px;
+    margin-top: -90px;
+}
+.hotel{
+display: inline-block;
+width: 286px;
+    height: 295px;
+    margin-left: 50px;
+    vertical-align: top;
+    margin-top: 0px;
+
+}
+.hotel img{
+    width: 286px;
+    height: 195px;
+}
+.hotel h4{
+    width: 259px;
+    height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    line-height: 21.85px;
+    color: #343232;
+    padding-top: 15px;
+}
+.hotel p{
+    width: 286px;
+    height: 63px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20.7px;
+    padding-top: 20px;
+    color: #636060;
+}
+.family{
+    display: inline-block;
+width: 286px;
+    height: 295px;
+    margin-left: 50px;
+    vertical-align: top;
+    margin-top: 0px;
+}
+.family img{
+    width: 286px;
+    height: 195px;
+}
+.family h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    line-height: 21.85px;
+    font-weight: 400;
+    color: #343232;
+    padding-top: 15px;
+
+}
+.family p{
+    width: 286px;
+    height: 63px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20.7px;
+    padding-top: 10px;
+    color: #636060;
+}
+.cruise{
+    display: inline-block;
+    width: 286px;
+        height: 295px;
+        margin-left: 250px;
+        vertical-align: top;;
+        margin-top: 50px;
+}
+.cruise img{
+    width: 286px;
+    height: 195px;
+}
+.cruise h4{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 21.85px;
+    color: #343232;
+    padding-top: 15px;
+    
+}
+.cruise p{
+    width: 286px;
+    height: 63px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20.7px;
+    padding-top: 10px;
+    color: #636060;
+}
+.fire-camp{
+    display: inline-block;
+    width: 286px;
+        height: 295px;
+        margin-left: 50px;
+        vertical-align:top;
+        margin-top: 50px;
+}
+.fire-camp img{
+    width: 286px;
+    height: 195px
+}
+.fire-camp h4{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 21.85px;
+    color: #343232;
+    padding-top: 15px;
+    
+}
+.fire-camp p{
+    width: 286px;
+    height: 63px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20.7px;
+    padding-top: 10px;
+    color: #636060;
+}
+.corporate{
+    display: inline-block;
+    width: 286px;
+        height: 295px;
+        margin-left: 50px;
+        vertical-align:top;
+        margin-top: 50px;
+}
+.corporate img{
+    width: 286px;
+    height: 195px
+}
+.corporate h4{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 21.85px;
+    color: #343232;
+    padding-top: 15px;
+    
+}
+.corporate p{
+    width: 286px;
+    height: 63px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20.7px;
+    padding-top: 10px;
+    color: #636060;
+
+
+
+
+
+
